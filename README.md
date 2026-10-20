@@ -8,7 +8,6 @@
 - [📖 Documentation](#-documentation)
 - [⌚ Future Enhancement](#-future-enhancement)
 - [🤝 Contribution](#-contribution)
-- [📞 Contact Information](#-contact-information)
 
 ## 🔍 About
 <p>
